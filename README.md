@@ -1,38 +1,51 @@
 # ORLIX AI Customer Service SaaS
 
-Portfolio repository for the ORLIX AI Customer Service SaaS project.
+A multi-company AI customer service platform designed to help businesses automate customer conversations, manage support teams, train AI assistants, and provide real-time support through website chat and messaging channels.
 
-## Overview
+> The production source code, credentials, customer data, internal administration tools, and deployment configuration are maintained in private repositories.
 
-A multi-company AI customer service platform built with FastAPI, PostgreSQL, Redis, Docker, and AI provider integrations.
+## Product Overview
 
-## Features
+ORLIX AI Customer Service SaaS combines artificial intelligence, customer support workflows, and multi-tenant infrastructure in one platform.
 
-- AI-powered customer replies
-- Professional Inbox
-- Agent assignment
-- Internal notes
-- Conversation tags
-- Priority management
-- Knowledge Base
+## Main Features
+
+- AI-powered automatic replies
+- Professional customer service inbox
+- Human agent handover
 - AI Training Center
+- Knowledge Base management
 - Website live chat widget
-- Multi-industry demos
-- Client dashboard
-- Owner dashboard
-- Multi-tenant foundation
+- Multi-company workspace isolation
+- Customer and conversation management
+- Multi-industry and multi-language support
 
-## Technology
+## Technology Stack
 
 - FastAPI
-- PostgreSQL
+- Python
 - SQLAlchemy
+- PostgreSQL
 - Alembic
 - Redis
-- Docker
+- WebSocket
 - OpenAI
-- Gemini
+- Google Gemini
+- Docker
 
-## Repository Policy
+## Documentation
 
-The production source code, credentials, internal dashboards, customer data, and deployment configuration are maintained in private repositories.
+- [Features](FEATURES.md)
+- [Architecture](ARCHITECTURE.md)
+- [Security](SECURITY.md)
+- [Roadmap](ROADMAP.md)
+- [Demo](DEMO.md)
+
+## Portfolio Policy
+
+This public repository contains product documentation and portfolio materials only. Production source code, credentials, customer data, internal dashboards, and deployment configuration are maintained in private repositories.
+
+## Contact
+
+ORLIX AI Customer Service SaaS  
+Domain: `orlix.tech`

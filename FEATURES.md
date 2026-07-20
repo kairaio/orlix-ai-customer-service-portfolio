@@ -1,12 +1,48 @@
-# Features
+# Product Features
 
-- Authentication and user roles
-- Multi-company support
-- Contacts and conversations
-- Professional Inbox
-- Human handover
+## Authentication and Access
+- JWT authentication
+- Account registration and login
+- Protected user profile
+- User roles
+- Company membership
+- Tenant-aware access
+
+## Customer Service
+- Customer contacts
+- Conversation history
+- Agent assignment
+- Internal notes
+- Tags and priority
+- Open, close, and reopen workflows
+
+## Artificial Intelligence
+- OpenAI support
+- Gemini support
 - AI auto reply
-- Knowledge Base
+- Multi-language support
+- Industry-specific prompts
+- Company-specific AI settings
+
+## Knowledge Base
+- Knowledge article management
+- PDF parsing
+- DOCX parsing
 - Document upload
-- Website live chat widget
-- Dashboard and analytics foundation
+- AI context retrieval
+
+## Website Widget
+- Embeddable JavaScript widget
+- Public widget configuration
+- Message history
+- Human handover
+- Website installation workflow
+
+## Platform Foundation
+- Multi-company architecture
+- Client dashboard
+- Owner dashboard
+- Trial registration
+- Billing foundation
+- Analytics foundation
+- Telegram integration foundation

@@ -1,10 +1,14 @@
-# Security
+# Security Policy
 
 This public repository does not contain:
 
+- Production source code
 - API keys
-- Environment variables
+- Database passwords
+- Environment files
 - Customer data
-- Production database credentials
-- Internal ORLIX administration code
-- Private deployment configuration
+- Uploaded customer documents
+- Internal ORLIX dashboards
+- Deployment credentials
+
+The production platform uses password hashing, JWT authentication, protected routes, environment variables, tenant isolation, role-based access foundations, and encrypted AI provider settings.
