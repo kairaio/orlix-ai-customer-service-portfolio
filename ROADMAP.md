@@ -1,44 +1,58 @@
-# Product Roadmap
+# ORLIX AI Customer Service — Product Roadmap
 
-## Completed Foundation
+## Core Platform — Completed
 
 - [x] FastAPI backend
 - [x] PostgreSQL integration
 - [x] Alembic migrations
 - [x] Docker environment
+- [x] Redis integration
 - [x] JWT authentication
+- [x] Role-based access
 - [x] Multi-company foundation
 - [x] Contact and conversation management
 - [x] Professional Inbox
 - [x] Agent assignment
 - [x] Internal notes
 - [x] Tags and priority
-- [x] AI auto reply
-- [x] OpenAI and Gemini support
+- [x] Human handover
+- [x] AI automatic replies
+- [x] OpenAI and Gemini provider support
 - [x] AI Training Center
 - [x] Knowledge Base
 - [x] PDF and DOCX parsing
 - [x] Website live chat widget
-- [x] Client and owner dashboards
+- [x] Client dashboard
+- [x] Owner / Platform dashboard authentication separation
+- [x] Production deployment foundation
+- [x] Production domain integration
+- [x] HTTPS production access
+- [x] Automated CI validation
+- [x] Production smoke-test workflow
 
-## In Progress
+## Product Expansion — In Progress
 
-- [ ] Production deployment
-- [ ] Production PostgreSQL configuration
-- [ ] Redis production configuration
-- [ ] Domain integration
-- [ ] HTTPS
-- [ ] Analytics charts
-- [ ] Product and pricing management
-- [ ] Subscription and billing
+- [ ] Advanced analytics and reporting
+- [ ] Product and pricing management completion
+- [ ] Subscription and billing completion
+- [ ] AI usage credits and metering
+- [ ] Monitoring and alerting expansion
+- [ ] Production hardening and continued end-to-end QA
 
-## Planned
+## Omnichannel Expansion — Planned
 
-- [ ] WhatsApp integration
+- [ ] WhatsApp Cloud API
 - [ ] Facebook Messenger
-- [ ] Instagram Direct
+- [ ] Instagram Messenger
 - [ ] LINE integration
 - [ ] Email channel
-- [ ] AI usage credits
-- [ ] Monitoring and alerts
-- [ ] Mobile application
+
+## Future
+
+- [ ] Expanded automation workflows
+- [ ] Advanced AI agent capabilities
+- [ ] Mobile experience
+
+---
+
+The public roadmap intentionally describes product-level progress only. Internal implementation details and security-sensitive production information are maintained privately.
